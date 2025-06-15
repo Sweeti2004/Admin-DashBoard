@@ -1,12 +1,32 @@
-# React + Vite
+Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React Admin Dashboard featuring:
 
-Currently, two official plugins are available:
+Customizable Themes: Toggle between light and dark modes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Interactive Tables: Sortable, filterable, and paginated data views.
 
-## Expanding the ESLint configuration
+Dynamic Charts: Line, bar, and pie charts powered by Recharts.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Calendar: Monthly calendar to display and manage events.
+
+Kanban Board: Drag-and-drop task management for agile workflows.
+
+Quick Start
+
+Clone & Install
+
+git clone https://github.com/Sweeti2004/Admin-DashBoard.git
+cd Admin-DashBoard
+npm install
+
+Run
+
+npm run dev
+
+Open your browser at http://localhost:3000
+
+Built with React, Recharts, React Router, and Vite.
+
+Feel free to explore and customize!
+
